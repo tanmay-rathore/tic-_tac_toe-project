@@ -23,7 +23,7 @@ The game checks whether a player has won or whether the game is a draw.
 - Terminal / Command Prompt
 
 ## Project Files
-- `tic_tac_toe.py` - Main Python program
+- `tic_tac_tu.py` - Main Python program
 - `README.md` - Project information
 - `statement.md` - Problem statement and project scope
 
@@ -39,13 +39,13 @@ Open the project folder in VS Code.
 Open the terminal and type:
 
 ```bash
-python tic_tac_toe.py
+python tic_tac_tu.py
 ```
 
 If your computer uses `python3`, use:
 
 ```bash
-python3 tic_tac_toe.py
+python3 tic_tac_tu.py
 ```
 
 ## How to Play
